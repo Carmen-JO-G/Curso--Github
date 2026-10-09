@@ -1,3 +1,8 @@
 Cursos
 print("Primer cambio de mi para ti, Carmen")
+<<<<<<< HEAD
 print("Paso 1.Commit\nPaso 2.Pull\nPaso 3.Push)
+=======
+
+print("Segundo cambio")
+>>>>>>> fdc77fe39d998000a35d2dffbb3ce1b83093cf10
